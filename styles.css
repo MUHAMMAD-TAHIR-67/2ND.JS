@@ -1,0 +1,10 @@
+h4{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+    margin: 2px;
+}
